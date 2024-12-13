@@ -1,0 +1,74 @@
+
+[
+  {
+    "Title": "Guardians of the Galaxy Vol. 2",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "05 May 2017",
+    "Runtime": "136 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "James Gunn",
+    "Writer": "James Gunn, Dan Abnett, Andy Lanning",
+    "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista",
+    "Plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 15 wins & 60 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "7.6/10" },
+      { "Source": "Rotten Tomatoes", "Value": "85%" },
+      { "Source": "Metacritic", "Value": "67/100" }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.6",
+    "imdbVotes": "768,933",
+    "imdbID": "tt3896198",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$389,813,101",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Game of Thrones",
+    "Year": "2011–2019",
+    "Rated": "TV-MA",
+    "Released": "17 Apr 2011",
+    "Runtime": "57 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "N/A",
+    "Writer": "David Benioff, D.B. Weiss",
+    "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+    "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 59 Primetime Emmys. 397 wins & 655 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "9.2/10" }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.2",
+    "imdbVotes": "2,335,041",
+    "imdbID": "tt0944947",
+    "Type": "series",
+    "totalSeasons": "8",
+    "Response": "True"
+  },
+  {
+    "Title": "Batman Begins",
+    "Year": "2005",
+    "imdbID": "tt0372784",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Batman v Superman: Dawn of Justice",
+    "Year": "2016",
+    "imdbID": "tt2975590",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  }
+]
